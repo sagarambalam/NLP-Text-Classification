@@ -5,14 +5,14 @@ This is a Classification problem where we have to classify the text into one of 
 
 ## Approach:
 1. EDA
-  - Cleaning Data. (Tokenizing, Stemming, Stopward removal, Stemming)
-  - Additional data cleaning based on data.
+    - Cleaning Data. (Tokenizing, Stemming, Stopward removal, Stemming)
+    - Additional data cleaning based on data.
 2. Building Model.
-  - Baseline model using Naive Bayes.
-  - Comparing with Random Forest.
+    - Baseline model using Naive Bayes.
+    - Comparing with Random Forest.
 3. Hyperparameter tuning.
-  - Gridcvsearch
-  - Visualising tuning results.
+    - Gridcvsearch
+    - Visualising tuning results.
 4. Predicting on test dataset.
 
 ## Future Scope:
