@@ -5,3 +5,4 @@ matplotlib==3.4.3
 wordcloud==1.8.1
 scikit-learn==0.24.2
 wordninja==2.0.0
+notebook==6.4.4
